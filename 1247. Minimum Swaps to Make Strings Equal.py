@@ -1,25 +1,52 @@
 class Solution:
-    def minimumSwap(self, s1: str, s2: str) -> int:
-        x = s1.count("x") + s2.count("x")
-        y = s1.count("y") + s2.count("y")
-        if x %2 ==1 or y %2==1:
-            return -1
-        dif = 0
-        x_dif = 0
-        ret = 0
-        for i in range(len(s1)):
-            if s1[i] != s2[i]:
-                dif +=1
-                if s1[i] == "x":
-                    x_dif +=1
-        y_dif = dif - x_dif
-        ret += (x_dif//2)
-        ret += (y_dif//2)
-        if x_dif %2 == 1:
-            ret += 2
-        return ret
+    def nthSuperUglyNumber(self, n: int, primes) -> int:
+        if n == 1:
+            return 1
+        m = len(primes)
+
+        ret = [[primes[0], 0]]
+        for i in range(n-2):
+            t = ret.pop(0)
+            val = t[0]
+            prod = t[1]
+            if prod == m-1:
+                ret.append([val * primes[m-1], m-1])
+            else:
+                l = 0
+                r = len(ret)
+                cur = val * primes[prod]
+                mid = 0
+                while l < r:
+                    mid = (l + r) // 2
+                    if ret[mid][0] > cur:
+                        r = mid
+                    else:
+                        l = mid+1
+
+                ret.insert(l, [cur, prod])
+                r = len(ret)
+                l =0
+                cur = val * primes[prod+1]//primes[prod]
+                while l < r:
+                    mid = (l + r) // 2
+                    if ret[mid][0] > cur:
+                        r = mid
+                    else:
+                        l = mid+1
+
+                ret.insert(l, [cur, prod+1])
+            if len(ret) > n:
+                ret.pop()
+
+        return ret.pop(0)
+
+
+
+
+
+
 
 sol = Solution()
-s1 = "xxyyxyxyxx"
-s2 = "xyyxyxxxyx"
-print(sol.minimumSwap(s1,s2))
+n = 12
+primes = [2,7,13,19]
+print(sol.nthSuperUglyNumber(n, primes))

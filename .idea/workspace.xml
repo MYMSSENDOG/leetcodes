@@ -2,16 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5483c85f-12c0-44a4-8259-0fe0dc6705e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/000.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/123.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/218. The Skyline Problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weekly Contest 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weekly Contest 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weekly Contest 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weekly Contest 4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leet_code_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leet_code_python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/284. Peeking Iterator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/287. Find the Duplicate Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5172.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5340.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5341.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5342.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5343.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5344.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5345.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5346.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5376.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5377.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5378.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5379.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c179 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c179 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c179 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c179 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c180-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c180-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c180-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c180-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c181-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c181-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c181-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c181-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c182-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c182-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c182-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c182-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w 178 - 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w 178 - 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w 178 - 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w 178 - 4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/218. The Skyline Problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/218. The Skyline Problem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weekly Contest 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Weekly Contest 3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,8 +96,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Weekly Contest 2">
-    <configuration name="000" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.5376">
+    <configuration name="5376" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leet_code_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,7 +109,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/000.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5376.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="218. The Skyline Problem" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5377" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leet_code_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,7 +130,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/218. The Skyline Problem.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5377.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Weekly Contest 1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5378" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leet_code_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,7 +151,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Weekly Contest 1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5378.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Weekly Contest 2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5379" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leet_code_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,7 +172,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Weekly Contest 2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5379.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +181,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Weekly Contest 3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="c182-3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leet_code_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,7 +193,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Weekly Contest 3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/c182-3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Weekly Contest 2" />
-        <item itemvalue="Python.Weekly Contest 3" />
-        <item itemvalue="Python.Weekly Contest 1" />
-        <item itemvalue="Python.000" />
-        <item itemvalue="Python.218. The Skyline Problem" />
+        <item itemvalue="Python.5376" />
+        <item itemvalue="Python.5378" />
+        <item itemvalue="Python.5379" />
+        <item itemvalue="Python.5377" />
+        <item itemvalue="Python.c182-3" />
       </list>
     </recent_temporary>
   </component>
@@ -192,6 +223,14 @@
       <option name="presentableId" value="Default" />
       <updated>1564726587346</updated>
     </task>
+    <task id="LOCAL-00001" summary="weekly contest">
+      <created>1578825222924</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578825222924</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,6 +245,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="weekly contest" />
+    <option name="LAST_COMMIT_MESSAGE" value="weekly contest" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -907,7 +950,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/218. The Skyline Problem.py</url>
-          <line>14</line>
+          <line>7</line>
           <option name="timeStamp" value="448" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -917,13 +960,153 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Weekly Contest 3.py</url>
-          <line>23</line>
+          <line>22</line>
           <option name="timeStamp" value="458" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Weekly Contest 2.py</url>
           <line>6</line>
           <option name="timeStamp" value="459" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/284. Peeking Iterator.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="460" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/284. Peeking Iterator.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="461" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/c1.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="464" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/c3.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="468" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/c4.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="475" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/5340.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="476" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/5341.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="477" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/5343.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="478" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/5345.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="479" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/5346.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="480" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/5172.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="481" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/5172.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="482" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/w 178 - 1.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="483" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/w 178 - 2.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="485" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/w 178 - 3.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="494" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/w 178 - 3.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="495" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/c179 2.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="497" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/c179 3.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="498" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/c179 4.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="508" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/c180-3.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="513" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/c180-4.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="518" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/c180-4.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="520" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/c181-2.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="523" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/c181-3.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="525" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/c181-4.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="527" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/c182-2.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="528" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/c182-3.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="530" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/5379.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="532" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -936,7 +1119,7 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="ab|bit" language="Python" />
+        <watch expression="d[ss][stationName]" language="Python" />
       </configuration>
     </watches-manager>
   </component>

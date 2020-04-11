@@ -19,7 +19,6 @@ class Solution:
                 q.append(i)
                 while q:
                     for j in range(len(q)):
-
                         cur = q.pop(0)
                         for line in line_dic[cur]:
                             if line not in dic:
