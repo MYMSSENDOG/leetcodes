@@ -16,7 +16,6 @@ class Solution:
         #1. best profit with one or less transaction between i to j
         s0 = 0
         s1 = -prices[0]
-        s2 = -9999
         for i, p in enumerate(prices[1:],1):
             t0 = s0
             t1 = s1

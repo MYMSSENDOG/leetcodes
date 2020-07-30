@@ -2,248 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5483c85f-12c0-44a4-8259-0fe0dc6705e0" name="Default Changelist" comment="20 - 4 - 12">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1319. Number of Operations to Make Network Connected.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1320. 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1320. Minimum Distance to Type a Word Using Two Fingers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1323. Maximum 69 Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1324. Print Words Vertically.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1325. Delete Leaves With a Given Value.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1326. 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1326. Minimum Number of Taps to Open to Water a Garden.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1354. Construct Target Array With Multiple Sums.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1367. Linked List in Binary Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1368. Minimum Cost to Make at Least One Valid Path in a Grid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1377. Frog Position After T Seconds.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1383. Maximum Performance of a Team.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1383.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1397.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/175. Combine Two Tables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/187. Repeated DNA Sequences.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/188. Best Time to Buy and Sell Stock IV 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/188. Best Time to Buy and Sell Stock IV.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/189. Rotate Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/190. Reverse Bits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/191. Number of 1 Bits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/192. Word Frequency.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/198. House Robber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/199. Binary Tree Right Side View.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/200. Number of Islands.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/201. Bitwise AND of Numbers Range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/202. Happy Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/203. Remove Linked List Elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/204. 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/204. Count Primes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/204. Count Primes2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/205. Isomorphic Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/206. Reverse Linked List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/207. Course Schedule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/208. Implement Trie (Prefix Tree).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/209. Minimum Size Subarray Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/210. Course Schedule II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/211 Add2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/211. Add and Search Word - Data structure design.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/212 Word Search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/212. Word Search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213. House Robber II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/214. Shortest Palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215. Kth Largest Element in an Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/216. Combination Sum III.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/216.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/217. Contains Duplicate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/218. 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219. Contains Duplicate II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/220. Contains Duplicate III.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/221. Maximal Square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/222. Count Complete Tree Nodes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/223. Rectangle Area.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/224. Basic Calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/225. Implement Stack using Queues.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/226. Invert Binary Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/227. Basic Calculator II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/228. Summary Ranges.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/229. Majority Element II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/230. Kth Smallest Element in a BST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/231. Power of Two.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/232. Implement Queue using Stacks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/233. Number of Digit One.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/234. Palindrome Linked List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/235. Lowest Common Ancestor of a Binary Search Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/236. Lowest Common Ancestor of a Binary Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/237. Delete Node in a Linked List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/238. Product of Array Except Self.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/239. Sliding Window Maximum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240. Search a 2D Matrix II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/241. Different Ways to Add Parentheses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/242. Valid Anagram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/257. Binary Tree Paths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/258. Add Digits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/260. Single Number III.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/263. Ugly Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/264. Ugly Number 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/264. Ugly Number II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/268. Missing Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/273. Integer to English Words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/274. H-Index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/275. H-Index II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/278. First Bad Version.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/279. Perfect Squares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/282. 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/282. Expression Add Operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/283. Move Zeroes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/289. Game of Life.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/290. Word Pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/292. Nim Game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/295. Find Median from Data Stream.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/295. Follow 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/299. Bulls and Cows.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/300. Longest Increasing Subsequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/300. Solutions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/301. Remove Invalid Parentheses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/301. help.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/301.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/303. Range Sum Query - Immutable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/304. Range Sum Query 2D - Immutable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/306. Additive Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/307. Range Sum Query - Mutable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/309. Best Time to Buy and Sell Stock with Cooldown.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/310. 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/310. Minimum Height Trees.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/312. 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/312. Burst Balloons.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/312.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/313. Super Ugly Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/313.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/315. Count of Smaller Numbers After Self.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/316. Remove Duplicate Letters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/318. Maximum Product of Word Lengths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/319. Bulb Switcher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/321. Create Maximum Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/321.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/322. 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/322. Coin Change.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/324. Wiggle Sort II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/326. Power of Three.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/328. Odd Even Linked List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/331. Verify Preorder Serialization of a Binary Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/332. Reconstruct Itinerary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/334. Increasing Triplet Subsequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/337. House Robber III.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/338. Counting Bits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/341. Flatten Nested List Iterator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/342. Power of Four.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/343. Integer Break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/344. Reverse String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/345. Reverse Vowels of a String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/347. Top K Frequent Elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/347.2- bucket.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/349. Intersection of Two Arrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/350. Intersection of Two Arrays II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/357. Count Numbers with Unique Digits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/365. Water and Jug Problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/367. Valid Perfect Square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/368. Largest Divisible Subset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/371. Sum of Two Integers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/372. Super Pow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/373. Find K Pairs with Smallest Sums.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/373.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/375. Guess Number Higher or Lower II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/375.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/376. Wiggle Subsequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/377. Combination Sum IV.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/377.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/377.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/377.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/378. Kth Smallest Element in a Sorted Matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/383. Ransom Note.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/386. Lexicographical Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/387. First Unique Character in a String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/389. Find the Difference.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/390. Elimination Game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/392. Is Subsequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/394. Decode String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/394.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/395. Longest Substring with At Least K Repeating Characters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/396. Rotate Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/397. Integer Replacement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/398. Random Pick Index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/399. Evaluate Division.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/400. Nth Digit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/401. Binary Watch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/402. Remove K Digits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/402.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/404. Sum of Left Leaves.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/405. Convert a Number to Hexadecimal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/406. Queue Reconstruction by Height.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/409. Longest Palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/412. Fizz Buzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/413. Arithmetic Slices.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/414. Third Maximum Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/415. Add Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/416. Partition Equal Subset Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/417. Pacific Atlantic Water Flow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/419. Battleships in a Board.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/421. Maximum XOR of Two Numbers in an Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/423. Reconstruct Original Digits from English.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/424. Longest Repeating Character Replacement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/427. Construct Quad Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/429. N-ary Tree Level Order Traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/430. Flatten a Multilevel Doubly Linked List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/433. Minimum Genetic Mutation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/435. Non-overlapping Intervals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/436. Find Right Interval.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/438. Find All Anagrams in a String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/442. 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/442. Find All Duplicates in an Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/445. Add Two Numbers II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/449. Serialize and Deserialize BST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/450. Delete Node in a BST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/451. Sort Characters By Frequency.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/451.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/452. Minimum Number of Arrows to Burst Balloons.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/454. 4Sum II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/456. 132 Pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/456.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/457. Circular Array Loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/462. Minimum Moves to Equal Array Elements II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/462.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9999. Invincible Knight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A003 반면게임.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A003 반명게임.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A014 두 각 잡기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coupang 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code_python+else.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code_python241+-462.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/macro workflow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paiza.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pratice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers level2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers test level 4 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers test level 4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/room.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/traffic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/공사현장.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/난수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/데이터 히스토그램.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/목2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/목걸이.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/반전.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/빔.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/사다리.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/섬.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유권자.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이상적인 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이상적인 시간여행.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/있는 숫자로 만들어진 수열.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/제품의 운반.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/텔레포트.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3377.   Arranging Coins  Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3378. Binary Tree Level Order Traversal II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3401. Find Minimum in Rotated Sorted Array II  Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3402. Add Digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3403.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3404. Task Scheduler  Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3404.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3405. Best Time to Buy and Sell Stock with Cooldown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3406.  Word Break II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/536. Count Square Submatrices with All Ones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/537.  Counting Bits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/537.  Possible Bipartition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/537.  Uncrossed Lines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/537. Sort Characters By Frequency.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/538.  Course Schedule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/538.Edit Distance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/539.  Queue Reconstruction by Height  Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/539. Delete Node in a Linked List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/539. Invert Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/539. Random Pick with Weight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/539. Two City Scheduling  Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leet_code_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leet_code_python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1397.py" beforeDir="false" afterPath="$PROJECT_DIR$/1397.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020 KAKAO BLIND RECRUITMENT 문자열 압 축.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020 KAKAO BLIND RECRUITMENT 문자열 압 축.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/309. Best Time to Buy and Sell Stock with Cooldown.py" beforeDir="false" afterPath="$PROJECT_DIR$/309. Best Time to Buy and Sell Stock with Cooldown.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/530. Minimum Path Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/530. Minimum Path Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/534. Cousins in Binary Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/534. Cousins in Binary Tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/534. Majority Element.py" beforeDir="false" afterPath="$PROJECT_DIR$/534. Majority Element.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/535. Check If It Is a Straight Line.py" beforeDir="false" afterPath="$PROJECT_DIR$/535. Check If It Is a Straight Line.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/535. Find the Town Judge.py" beforeDir="false" afterPath="$PROJECT_DIR$/535. Find the Town Judge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/535. Flood Fill.py" beforeDir="false" afterPath="$PROJECT_DIR$/535. Flood Fill.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/535. Remove K Digits 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/535. Remove K Digits 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/535. Remove K Digits.py" beforeDir="false" afterPath="$PROJECT_DIR$/535. Remove K Digits.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/535. Single Element in a Sorted Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/535. Single Element in a Sorted Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/535. Valid Perfect Square.py" beforeDir="false" afterPath="$PROJECT_DIR$/535. Valid Perfect Square.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/536. Find All Anagrams in a String.py" beforeDir="false" afterPath="$PROJECT_DIR$/536. Find All Anagrams in a String.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/536. Kth Smallest Element in a BST.py" beforeDir="false" afterPath="$PROJECT_DIR$/536. Kth Smallest Element in a BST.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/536. Maximum Sum Circular Subarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/536. Maximum Sum Circular Subarray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/536. Odd Even Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/536. Odd Even Linked List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/536. Online Stock Span.py" beforeDir="false" afterPath="$PROJECT_DIR$/536. Online Stock Span.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/536. Permutation in String.py" beforeDir="false" afterPath="$PROJECT_DIR$/536. Permutation in String.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c 185.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/c 185.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c 185.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/c 185.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c 185.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/c 185.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c 185.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/c 185.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree_node_lib.py" beforeDir="false" afterPath="$PROJECT_DIR$/tree_node_lib.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -256,22 +64,16 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>a[</find>
-      <find>input</find>
-      <find>heights[j]</find>
-      <find>isVal</find>
-      <find>6</find>
-      <find>ratings</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Vjju3wMNLlKo2DRucEoxVkPCtb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -283,20 +85,8 @@
       <recent name="E:\PycharmProjects\leet_code_python" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.5376">
-    <configuration name="5376" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.3401. Find Minimum in Rotated Sorted Array II  Solution">
+    <configuration name="3401. Find Minimum in Rotated Sorted Array II  Solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leet_code_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -308,7 +98,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5376.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3401. Find Minimum in Rotated Sorted Array II  Solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -317,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5377" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3402. Add Digits" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leet_code_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -329,7 +119,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5377.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3402. Add Digits.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -338,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5378" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3404.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leet_code_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -350,7 +140,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5378.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3404.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -359,7 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5379" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3405. Best Time to Buy and Sell Stock with Cooldown" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leet_code_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -371,7 +161,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5379.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3405. Best Time to Buy and Sell Stock with Cooldown.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -380,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="c182-3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3406.  Word Break II" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leet_code_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -392,7 +182,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/c182-3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3406.  Word Break II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -403,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.5376" />
-        <item itemvalue="Python.5378" />
-        <item itemvalue="Python.5379" />
-        <item itemvalue="Python.5377" />
-        <item itemvalue="Python.c182-3" />
+        <item itemvalue="Python.3401. Find Minimum in Rotated Sorted Array II  Solution" />
+        <item itemvalue="Python.3402. Add Digits" />
+        <item itemvalue="Python.3406.  Word Break II" />
+        <item itemvalue="Python.3405. Best Time to Buy and Sell Stock with Cooldown" />
+        <item itemvalue="Python.3404.2" />
       </list>
     </recent_temporary>
   </component>
@@ -444,18 +234,75 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="weekly contest" />
     <MESSAGE value="20 - 4 - 12" />
     <option name="LAST_COMMIT_MESSAGE" value="20 - 4 - 12" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1625" y="291" key="#3378._Binary_Tree_Level_Order_Traversal_II" timestamp="1593680875382">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1625" y="291" key="#3378._Binary_Tree_Level_Order_Traversal_II/0.0.2560.1400@0.0.2560.1400" timestamp="1593680875382" />
+    <state x="1367" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590986652776">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1367" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1590986652776" />
+    <state x="1700" y="458" key="FileChooserDialogImpl" timestamp="1596045613605">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1700" y="458" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1596045613605" />
+    <state width="1254" height="417" key="GridCell.Tab.0.bottom" timestamp="1596133078584">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1254" height="417" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1596133078584" />
+    <state width="1254" height="417" key="GridCell.Tab.0.center" timestamp="1596133078584">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1254" height="417" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1596133078584" />
+    <state width="1254" height="417" key="GridCell.Tab.0.left" timestamp="1596133078584">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1254" height="417" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1596133078584" />
+    <state width="1254" height="417" key="GridCell.Tab.0.right" timestamp="1596133078584">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1254" height="417" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1596133078584" />
+    <state width="1254" height="417" key="GridCell.Tab.1.bottom" timestamp="1596133078584">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1254" height="417" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1596133078584" />
+    <state width="1254" height="417" key="GridCell.Tab.1.center" timestamp="1596133078584">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1254" height="417" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1596133078584" />
+    <state width="1254" height="417" key="GridCell.Tab.1.left" timestamp="1596133078584">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1254" height="417" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1596133078584" />
+    <state width="1254" height="417" key="GridCell.Tab.1.right" timestamp="1596133078584">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1254" height="417" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1596133078584" />
+    <state x="1420" y="344" key="SettingsEditor" timestamp="1593680896789">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1420" y="344" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1593680896789" />
+    <state x="118" y="0" width="1028" height="953" key="dock-window-1" timestamp="1596045615213">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="118" y="0" width="1028" height="953" key="dock-window-1/0.0.2560.1400@0.0.2560.1400" timestamp="1596045615213" />
+    <state x="1273" y="0" width="1294" height="1407" key="dock-window-2" timestamp="1591431777148">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1273" y="0" width="1294" height="1407" key="dock-window-2/0.0.2560.1400@0.0.2560.1400" timestamp="1591431777148" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1315,6 +1162,201 @@
           <line>16</line>
           <option name="timeStamp" value="532" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/530. Minimum Path Sum.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="533" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/c 185.1.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="534" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/c 185.1.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="535" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/c 185.2.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="539" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/c 185.2.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="540" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/c 185.4.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="541" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/534. Cousins in Binary Tree.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="546" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/518. Coin Change 2.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="547" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/518. Coin Change 2.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="550" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/535. Valid Perfect Square.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="551" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/535. Flood Fill.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="552" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/535. Remove K Digits.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="553" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/535. Remove K Digits.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="554" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/536. Maximum Sum Circular Subarray.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="556" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/536. Maximum Sum Circular Subarray.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="557" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/536. Odd Even Linked List.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="558" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/536. Odd Even Linked List.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="560" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/536. Odd Even Linked List.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="561" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/536. Permutation in String.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="565" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/536. Permutation in String.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="566" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/536. Kth Smallest Element in a BST.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="567" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/536. Online Stock Span.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="568" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/536. Count Square Submatrices with All Ones.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="571" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/536. Count Square Submatrices with All Ones.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="572" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/537.  Uncrossed Lines.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="574" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/537.  Possible Bipartition.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="580" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/537.  Counting Bits.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="581" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/538.  Course Schedule.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="582" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/207. Course Schedule.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="583" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/539. Two City Scheduling  Solution.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="584" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/539. Random Pick with Weight.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="585" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/539.  Queue Reconstruction by Height  Solution.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="586" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3377.   Arranging Coins  Solution.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="588" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3403.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="594" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3404. Task Scheduler  Solution.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="598" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3404. Task Scheduler  Solution.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="599" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3404.2.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="603" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3406.  Word Break II.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="604" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3402. Add Digits.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="605" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -1326,7 +1368,10 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="d[ss][stationName]" language="Python" />
+        <watch expression="cur_array" language="Python" />
+        <watch expression="idx" language="Python" />
+        <watch expression="l" language="Python" />
+        <watch expression="ret" language="Python" />
       </configuration>
     </watches-manager>
   </component>

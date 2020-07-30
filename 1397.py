@@ -52,7 +52,8 @@ class Solution:
         kmp()
         return recurse(0, False, False, 0)
 sol = Solution()
+n = 3
 s1 = "abc"
 s2 = "bbc"
 evil = "a"
-print(sol.findGoodStrings(s1,s2,evil))
+print(sol.findGoodStrings(n, s1, s2, evil))

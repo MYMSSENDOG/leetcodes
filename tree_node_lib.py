@@ -4,19 +4,31 @@ class TreeNode:
          self.left = None
          self.right = None
 
-def inorder_print(head):
+def inorder_print(head, arr):
     if head.left:
-        inorder_print(head.left)
-    print(head.val)
+        inorder_print(head.left,arr)
+    arr.append(head.val)
     if head.right:
-        inorder_print(head.right)
+        inorder_print(head.right, arr)
+def postorder_print(head,arr):
+    if head.left:
+        postorder_print(head.left, arr)
+    if head.right:
+        postorder_print(head.right, arr)
+    arr.append(head.val)
 
 def makeArray(root):
-    stack = []
+    ret = []
+    if not root:
+        return []
     cur = root
+    q = [cur]
+    while q:
+        t = q.pop(0)
+        ret.append(t.val)
+        if t.left:
+            pass
 
-    while cur!= None:
-        stack.append(cur)
 
 
 def makeTree(array):
