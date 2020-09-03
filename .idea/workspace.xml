@@ -1,56 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5483c85f-12c0-44a4-8259-0fe0dc6705e0" name="Default Changelist" comment="20 - 4 - 12">
-      <change afterPath="$PROJECT_DIR$/3377.   Arranging Coins  Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3378. Binary Tree Level Order Traversal II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3401. Find Minimum in Rotated Sorted Array II  Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3402. Add Digits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3403.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3404. Task Scheduler  Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3404.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3405. Best Time to Buy and Sell Stock with Cooldown.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3406.  Word Break II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/536. Count Square Submatrices with All Ones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/537.  Counting Bits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/537.  Possible Bipartition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/537.  Uncrossed Lines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/537. Sort Characters By Frequency.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/538.  Course Schedule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/538.Edit Distance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/539.  Queue Reconstruction by Height  Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/539. Delete Node in a Linked List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/539. Invert Binary Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/539. Random Pick with Weight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/539. Two City Scheduling  Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leet_code_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leet_code_python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="5483c85f-12c0-44a4-8259-0fe0dc6705e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/1552. Magnetic Force Between Two Balls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3399.  Single Number III.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3400. All Paths From Source to Target.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3407. Climbing Stairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3409. Detect Capital.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3410. Design HashSet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3411. Valid Palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3412. power of four.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3413. Add and Search Word - Data structure design.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3414. ﻿Find All Duplicates in an Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3415.  Vertical Order Traversal of a Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3417.Path Sum III.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3418. Rotting Oranges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3419. Excel Sheet Column Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3420. H-Index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3421. Pascal Triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3422. 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3422. Iterator for Combination.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3423. Longest Palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3425. Non-overlapping Intervals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3426.  Best Time to Buy and Sell Stock III.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3427. Distribute Candies to People.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3428.  Numbers With Same Consecutive Differences.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3429. Goat Latin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3430. Reorder List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3430.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3431. Sort Array By Parity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3433. Random Point in Non-overlapping Rectangles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3434. 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3434. 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3434. Stream of Characters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3435. Sum of Left Leaves.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3436. Minimum Cost For Tickets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3437. FizzBuzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3438. Find Right interval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3439. ﻿Implement Rand10() Using Rand7()﻿.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3441.   Pancake Sorting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3442.  Largest Component Size by Common Factor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3442. 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3443. Delete node in BST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3445. Largest Time for Given Digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3446. Contains Duplicate III.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3447.  Repeated Substring Pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toss1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toss2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toss3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toss4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toss5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toss6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toss7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1397.py" beforeDir="false" afterPath="$PROJECT_DIR$/1397.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020 KAKAO BLIND RECRUITMENT 문자열 압 축.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020 KAKAO BLIND RECRUITMENT 문자열 압 축.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/309. Best Time to Buy and Sell Stock with Cooldown.py" beforeDir="false" afterPath="$PROJECT_DIR$/309. Best Time to Buy and Sell Stock with Cooldown.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/530. Minimum Path Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/530. Minimum Path Sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/534. Cousins in Binary Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/534. Cousins in Binary Tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/534. Majority Element.py" beforeDir="false" afterPath="$PROJECT_DIR$/534. Majority Element.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/535. Check If It Is a Straight Line.py" beforeDir="false" afterPath="$PROJECT_DIR$/535. Check If It Is a Straight Line.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/535. Find the Town Judge.py" beforeDir="false" afterPath="$PROJECT_DIR$/535. Find the Town Judge.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/535. Flood Fill.py" beforeDir="false" afterPath="$PROJECT_DIR$/535. Flood Fill.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/535. Remove K Digits 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/535. Remove K Digits 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/535. Remove K Digits.py" beforeDir="false" afterPath="$PROJECT_DIR$/535. Remove K Digits.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/535. Single Element in a Sorted Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/535. Single Element in a Sorted Array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/535. Valid Perfect Square.py" beforeDir="false" afterPath="$PROJECT_DIR$/535. Valid Perfect Square.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/536. Find All Anagrams in a String.py" beforeDir="false" afterPath="$PROJECT_DIR$/536. Find All Anagrams in a String.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/536. Kth Smallest Element in a BST.py" beforeDir="false" afterPath="$PROJECT_DIR$/536. Kth Smallest Element in a BST.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/536. Maximum Sum Circular Subarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/536. Maximum Sum Circular Subarray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/536. Odd Even Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/536. Odd Even Linked List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/536. Online Stock Span.py" beforeDir="false" afterPath="$PROJECT_DIR$/536. Online Stock Span.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/536. Permutation in String.py" beforeDir="false" afterPath="$PROJECT_DIR$/536. Permutation in String.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c 185.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/c 185.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c 185.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/c 185.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c 185.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/c 185.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c 185.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/c 185.4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tree_node_lib.py" beforeDir="false" afterPath="$PROJECT_DIR$/tree_node_lib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/빔.py" beforeDir="false" afterPath="$PROJECT_DIR$/빔.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +81,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Mobile-Shipping" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -85,8 +89,8 @@
       <recent name="E:\PycharmProjects\leet_code_python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3401. Find Minimum in Rotated Sorted Array II  Solution">
-    <configuration name="3401. Find Minimum in Rotated Sorted Array II  Solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.3447.  Repeated Substring Pattern">
+    <configuration name="3441.   Pancake Sorting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leet_code_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,7 +102,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3401. Find Minimum in Rotated Sorted Array II  Solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3441.   Pancake Sorting.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3402. Add Digits" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3442.  Largest Component Size by Common Factor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leet_code_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,7 +123,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3402. Add Digits.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3442.  Largest Component Size by Common Factor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3404.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3443. Delete node in BST" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leet_code_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,7 +144,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3404.2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3443. Delete node in BST.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3405. Best Time to Buy and Sell Stock with Cooldown" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3446. Contains Duplicate III" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leet_code_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,7 +165,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3405. Best Time to Buy and Sell Stock with Cooldown.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3446. Contains Duplicate III.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,7 +174,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3406.  Word Break II" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3447.  Repeated Substring Pattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leet_code_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,7 +186,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3406.  Word Break II.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3447.  Repeated Substring Pattern.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.3401. Find Minimum in Rotated Sorted Array II  Solution" />
-        <item itemvalue="Python.3402. Add Digits" />
-        <item itemvalue="Python.3406.  Word Break II" />
-        <item itemvalue="Python.3405. Best Time to Buy and Sell Stock with Cooldown" />
-        <item itemvalue="Python.3404.2" />
+        <item itemvalue="Python.3447.  Repeated Substring Pattern" />
+        <item itemvalue="Python.3446. Contains Duplicate III" />
+        <item itemvalue="Python.3443. Delete node in BST" />
+        <item itemvalue="Python.3442.  Largest Component Size by Common Factor" />
+        <item itemvalue="Python.3441.   Pancake Sorting" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586628320645</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ADD SOLVED PROBLEMS">
+      <created>1596133205679</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596133205679</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -244,7 +255,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="weekly contest" />
     <MESSAGE value="20 - 4 - 12" />
-    <option name="LAST_COMMIT_MESSAGE" value="20 - 4 - 12" />
+    <MESSAGE value="ADD SOLVED PROBLEMS" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD SOLVED PROBLEMS" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1625" y="291" key="#3378._Binary_Tree_Level_Order_Traversal_II" timestamp="1593680875382">
@@ -255,46 +267,54 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1367" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1590986652776" />
-    <state x="1700" y="458" key="FileChooserDialogImpl" timestamp="1596045613605">
+    <state x="1097" y="367" key="CommitChangelistDialog2" timestamp="1596133202505">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1700" y="458" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1596045613605" />
-    <state width="1254" height="417" key="GridCell.Tab.0.bottom" timestamp="1596133078584">
+    <state x="1097" y="367" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1596133202505" />
+    <state x="1700" y="458" key="FileChooserDialogImpl" timestamp="1599160555377">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1254" height="417" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1596133078584" />
-    <state width="1254" height="417" key="GridCell.Tab.0.center" timestamp="1596133078584">
+    <state x="1700" y="458" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1599160555377" />
+    <state width="1258" height="469" key="GridCell.Tab.0.bottom" timestamp="1599158895925">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1254" height="417" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1596133078584" />
-    <state width="1254" height="417" key="GridCell.Tab.0.left" timestamp="1596133078584">
+    <state width="1258" height="469" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1599158895925" />
+    <state width="1258" height="469" key="GridCell.Tab.0.center" timestamp="1599158895925">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1254" height="417" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1596133078584" />
-    <state width="1254" height="417" key="GridCell.Tab.0.right" timestamp="1596133078584">
+    <state width="1258" height="469" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1599158895925" />
+    <state width="1258" height="469" key="GridCell.Tab.0.left" timestamp="1599158895925">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1254" height="417" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1596133078584" />
-    <state width="1254" height="417" key="GridCell.Tab.1.bottom" timestamp="1596133078584">
+    <state width="1258" height="469" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1599158895925" />
+    <state width="1258" height="469" key="GridCell.Tab.0.right" timestamp="1599158895925">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1254" height="417" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1596133078584" />
-    <state width="1254" height="417" key="GridCell.Tab.1.center" timestamp="1596133078584">
+    <state width="1258" height="469" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1599158895925" />
+    <state width="1258" height="469" key="GridCell.Tab.1.bottom" timestamp="1599158895925">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1254" height="417" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1596133078584" />
-    <state width="1254" height="417" key="GridCell.Tab.1.left" timestamp="1596133078584">
+    <state width="1258" height="469" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1599158895925" />
+    <state width="1258" height="469" key="GridCell.Tab.1.center" timestamp="1599158895925">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1254" height="417" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1596133078584" />
-    <state width="1254" height="417" key="GridCell.Tab.1.right" timestamp="1596133078584">
+    <state width="1258" height="469" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1599158895925" />
+    <state width="1258" height="469" key="GridCell.Tab.1.left" timestamp="1599158895925">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1254" height="417" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1596133078584" />
+    <state width="1258" height="469" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1599158895925" />
+    <state width="1258" height="469" key="GridCell.Tab.1.right" timestamp="1599158895925">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1258" height="469" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1599158895925" />
     <state x="1420" y="344" key="SettingsEditor" timestamp="1593680896789">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1420" y="344" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1593680896789" />
+    <state x="1724" y="613" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596133215216">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1724" y="613" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1596133215216" />
     <state x="118" y="0" width="1028" height="953" key="dock-window-1" timestamp="1596045615213">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -303,6 +323,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1273" y="0" width="1294" height="1407" key="dock-window-2/0.0.2560.1400@0.0.2560.1400" timestamp="1591431777148" />
+    <state x="303" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1598289038254">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="303" y="320" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1598289038254" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1357,6 +1381,156 @@
           <line>2</line>
           <option name="timeStamp" value="605" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/toss2.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="606" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/toss5.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="607" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/toss6.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="608" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3413. Add and Search Word - Data structure design.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="609" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3418. Rotting Oranges.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="611" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3421. Pascal Triangle.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="612" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3422. Iterator for Combination.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="614" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3422. 2.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="619" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3423. Longest Palindrome.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="620" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3427. Distribute Candies to People.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="622" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3427. Distribute Candies to People.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="624" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3428.  Numbers With Same Consecutive Differences.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="625" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3430.2.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="626" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1552. Magnetic Force Between Two Balls.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="630" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3433. Random Point in Non-overlapping Rectangles.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="638" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3434. 2.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="644" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3434. Stream of Characters.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="645" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3434. Stream of Characters.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="646" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3434. 3.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="650" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3435. Sum of Left Leaves.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="651" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3436. Minimum Cost For Tickets.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="655" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3438. Find Right interval.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="656" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3438. Find Right interval.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="657" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3441.   Pancake Sorting.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="659" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3441.   Pancake Sorting.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="660" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3443. Delete node in BST.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="663" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3446. Contains Duplicate III.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="667" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3447.  Repeated Substring Pattern.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="668" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3447.  Repeated Substring Pattern.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="670" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3447.  Repeated Substring Pattern.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="671" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -1368,10 +1542,11 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="cur_array" language="Python" />
-        <watch expression="idx" language="Python" />
-        <watch expression="l" language="Python" />
-        <watch expression="ret" language="Python" />
+        <watch expression="cur.righrt" language="Python" />
+        <watch expression="cur.right.val" language="Python" />
+        <watch expression="cur.val" language="Python" />
+        <watch expression="parent.left.val" language="Python" />
+        <watch expression="s[l:r]" language="Python" />
       </configuration>
     </watches-manager>
   </component>
